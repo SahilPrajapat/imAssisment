@@ -1,0 +1,13 @@
+.sideLink{
+    font-weight: 700;
+}
+
+.sideLink:hover {
+    background: rgb(2, 68, 32);
+    
+}
+
+.active{
+    background: rgba(1, 24, 18, 0.466);
+    border-left: 5px solid white !important;
+}
